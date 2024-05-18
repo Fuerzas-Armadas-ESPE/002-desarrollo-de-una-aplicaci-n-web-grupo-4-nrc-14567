@@ -6273,7 +6273,7 @@ button.bg-dark:focus {
   padding-left: 1rem !important; }
 
 .p-4 {
-  padding: 1.5rem !important; }
+  padding: 2.5rem !important; }
 
 .pt-4,
 .py-4 {
@@ -7713,7 +7713,10 @@ h1, h2, h3, h4, h5,
 .ftco-intro {
   color: #fff; }
   .ftco-intro .container {
-    margin-top: -100px; }
+    margin-top: -100px; 
+    margin-right: 60px;
+  }
+
     @media (min-width: 768px) {
       .ftco-intro .container {
         margin-top: -100px; } }

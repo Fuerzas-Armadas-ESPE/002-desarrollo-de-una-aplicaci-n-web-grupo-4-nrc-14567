@@ -3375,3 +3375,62 @@ Copyright (c) 2015 Daniel Eden
   -webkit-animation-name: slideOutUp;
   animation-name: slideOutUp;
 }
+
+/*acordeon*/
+
+
+
+.acordeon {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor-galeria {
+    display: grid;
+    place-items: center;
+    width: 1000px;
+}
+
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    max-width: 1000px;
+}
+
+.contenedor-imagen {
+    position: relative;
+    left: 0;
+    width: 300px;
+    border-radius: 5px;
+    height: 500px;
+    overflow: hidden;
+    background-color: #efefef;
+    transition: 0.4s ease-in-out;
+    box-shadow: 0 5px 12px rgb(0, 0, 0, 0.5);
+    flex: 0.25;
+}
+
+.contenedor-imagen img {
+    height: 600px;
+    width: 900px;
+    object-fit: cover;
+    right: 180px;
+}
+
+.contenedor-imagen:hover {
+    flex: 2;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.block-30 {
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 300px;
+  position: relative;
+  display: block; }
+
