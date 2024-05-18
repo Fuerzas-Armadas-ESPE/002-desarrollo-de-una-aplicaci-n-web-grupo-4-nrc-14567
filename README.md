@@ -17,7 +17,7 @@ Este proyecto es la página web de la Clínica Dental, diseñada para proporcion
 **Índice:**
 
 
-
+##### - Inicio  [](https://javigonzaga27.github.io/ClinicaDental/index.html "Heading link")
 ##### - Sobre nosotros  [](https://javigonzaga27.github.io/ClinicaDental/about.html "Heading link")
 ##### - Tratamientos  [](https://javigonzaga27.github.io/ClinicaDental/services.html "Heading link")
 ##### - Contactos  [](https://javigonzaga27.github.io/ClinicaDental/contact.html "Heading link")
@@ -25,6 +25,16 @@ Este proyecto es la página web de la Clínica Dental, diseñada para proporcion
 
 
 
+### Inicio
+La página de inicio de la Clínica Dental es la primera impresión que los visitantes tienen del sitio web. Está diseñada para ser intuitiva y acogedora, proporcionando una visión general de los servicios de la clínica y facilitando el acceso a las secciones más importantes del sitio.
+Se puede visualizar:
+- Horarios de atención y contactos.
+- Algunos servicios que se ofrecen. 
+- Detalles que dan realce a los servicios que se ofrecen.
+- Facilidades, pago, primera cita gratis, parqueader gratuito.
+- Estadisticas.
+- Sobre sus instalaciones.
+- Ubicación en mapa de la clínica dental.
 
 
 
@@ -66,7 +76,14 @@ La sección "Agendar una cita" permite a los pacientes programar sus citas de ma
 ## Cómo Clonar el Proyecto
 Para clonar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
+- En un terminal detro de la carpeta que queremos tener el proyecto, usamos el siguiente comando:
 
 `git clone https://github.com/Fuerzas-Armadas-ESPE/002-desarrollo-de-una-aplicaci-n-web-grupo-4-nrc-14567.git`
 
+- Abre el archivo index.html para visualizar.
 
+
+## Cómo ver el Proyecto en la Web
+Ingresa al siguiente enlace:
+
+`https://javigonzaga27.github.io/ClinicaDental/`
