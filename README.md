@@ -18,21 +18,21 @@ Este proyecto es la página web de la Clínica Dental, diseñada para proporcion
 
 
 
-#####- Sobre nosotros  [](https://javigonzaga27.github.io/ClinicaDental/about.html "Heading link")
-#####- Tratamientos  [](https://javigonzaga27.github.io/ClinicaDental/about.html "Heading link")
-#####- Contactos  [](https://javigonzaga27.github.io/ClinicaDental/about.html "Heading link")
-#####- Agendar una cita  [](https://javigonzaga27.github.io/ClinicaDental/about.html "Heading link")
+##### - Sobre nosotros  [](https://javigonzaga27.github.io/ClinicaDental/about.html "Heading link")
+##### - Tratamientos  [](https://javigonzaga27.github.io/ClinicaDental/services.html "Heading link")
+##### - Contactos  [](https://javigonzaga27.github.io/ClinicaDental/contact.html "Heading link")
+##### - Agendar una cita  [](https://javigonzaga27.github.io/ClinicaDental/about.html "Heading link")
 
 
 
 
 
 
-###Sobre nosotros
+### Sobre nosotros
 En la sección "Sobre nosotros", la Clínica Dental GAP DENTAL presenta su historia, misión, visión y valores. Aquí se describe el compromiso de la clínica con la excelencia en el cuidado dental y la satisfacción del paciente. También se proporciona información sobre el equipo de profesionales altamente cualificados que forman parte de la clínica.
 
 
-###Tratamientos
+### Tratamientos
 La sección "Tratamientos" detalla los diferentes servicios dentales que ofrece la clínica. Estos pueden incluir:
 - Limpiezas dentales: Procedimientos de higiene para mantener la salud bucal.
 - Empastes y restauraciones: Reparación de caries y daños en los dientes.
@@ -43,7 +43,7 @@ La sección "Tratamientos" detalla los diferentes servicios dentales que ofrece 
 Cada tratamiento se explica con detalle, incluyendo sus beneficios y el proceso involucrado.
 
 
-###Contactos
+### Contactos
 En la sección "Contactos", se proporciona toda la información necesaria para que los pacientes puedan ponerse en contacto con la clínica. Esto incluye:
 - Dirección física de la clínica.
 - Números de teléfono.
@@ -52,18 +52,18 @@ En la sección "Contactos", se proporciona toda la información necesaria para q
 Esta sección también puede incluir un mapa interactivo para facilitar la localización de la clínica.
 
 
-###Agendar una cita
+### Agendar una cita
 La sección "Agendar una cita" permite a los pacientes programar sus citas de manera cómoda y rápida. A través de un formulario en línea, los pacientes pueden seleccionar la fecha y hora que mejor les convenga, así como el tipo de tratamiento que necesitan. Esta funcionalidad está diseñada para mejorar la experiencia del paciente y optimizar la gestión de citas de la clínica.
 
 
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - HTML5 y CSS3 para la estructura y estilo de la página.
 - JavaScript Y PHP para la interactividad y funcionalidad avanzada.
 - Bootstrap para un diseño responsivo y moderno.
 
 
-##Cómo Clonar el Proyecto
+## Cómo Clonar el Proyecto
 Para clonar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 
