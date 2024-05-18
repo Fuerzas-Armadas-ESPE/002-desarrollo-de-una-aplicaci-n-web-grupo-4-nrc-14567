@@ -31,8 +31,8 @@ Se puede visualizar:
 - Horarios de atención y contactos.
 - Algunos servicios que se ofrecen. 
 - Detalles que dan realce a los servicios que se ofrecen.
-- Facilidades, pago, primera cita gratis, parqueader gratuito.
-- Estadisticas.
+- Facilidades, pago, primera cita gratis, parqueadero gratuito.
+- Estadísticas.
 - Sobre sus instalaciones.
 - Ubicación en mapa de la clínica dental.
 
@@ -59,6 +59,7 @@ En la sección "Contactos", se proporciona toda la información necesaria para q
 - Números de teléfono.
 - Dirección de correo electrónico.
 - Formulario de contacto en línea.
+
 Esta sección también puede incluir un mapa interactivo para facilitar la localización de la clínica.
 
 
